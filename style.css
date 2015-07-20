@@ -1,0 +1,11 @@
+.row{
+    width: 100%;
+}
+.video{
+    width:25%;
+    float: left;
+}
+.video img{
+    height: 50px;
+    margin: 10px 20px;
+}
