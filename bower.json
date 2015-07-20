@@ -1,0 +1,21 @@
+{
+  "name": "js object practice",
+  "version": "0.0.0",
+  "homepage": "https://github.com/renevilla/objPractice",
+  "authors": [
+    "Rene Villa <renevilla23@gmail.com>"
+  ],
+  "description": "iterating over a js object and output data",
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ]
+}
